@@ -1,2 +1,5 @@
-# ImHere
- I'm Here app made with React Native & TypeScript
+# ImHere Home Screen
+ ![app](img/home)
+
+#ImHere Event Screen
+![app](img/eventHome)
