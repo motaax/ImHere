@@ -1,5 +1,5 @@
 # ImHere Home Screen
- ![app](img/home)
+ ![app](img/home.jpg)
 
 #ImHere Event Screen
-![app](img/eventHome)
+![app](img/eventHome.jpg)
