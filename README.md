@@ -1,1 +1,1 @@
-# ImHere app made with TypeScript & React Native
+# ImHere app made with React Native & TypeScript 
